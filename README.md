@@ -1,0 +1,2 @@
+# TrafficMonitoringSystem
+The chief motive of this project is to create an efficient application on monitoring traffic and giving an alternative fast route when available. Also providing with journey time can help one to plan his schedule . Traffic leads to many problems like pollution ,delay in reaching destinations and these problems can be effectively solved by this application which is made using DBMS and Java.
